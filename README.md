@@ -7,5 +7,5 @@
 
 -->confusion_matrix for both the models are also created.
 
--->Since the value of mean_squared_error is less and the value ofaccuracy_score is more for the Logistic Regression Model than for the SVM Model,therefore Logistic Regression Model is more suitable than SVM Model for the given dataset.
+-->Since the value of mean_squared_error is less and the value of accuracy_score is more for the Logistic Regression Model than for the SVM Model,therefore Logistic Regression Model is more suitable than SVM Model for the given dataset.
 
